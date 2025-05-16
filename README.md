@@ -17,5 +17,25 @@ The **Sales Tracker Dashboard** is designed to give a comprehensive view of sale
 - 🌎 Region-wise Sales Performance  
 - 📊 Interactive charts and slicers
 
-## 📁 File Structure
+🖼️ Dashboard Preview
+![Screenshot 2025-05-15 203831](https://github.com/user-attachments/assets/b0ae0691-4486-4218-9bdb-e84fb5284580)
+
+
+🧮 Tools Used
+Microsoft Excel
+
+Pivot Tables
+
+Conditional Formatting
+
+Data Validation and Slicers
+
+Charts (Bar, Line, Pie)
+
+📌 Use Cases
+Sales performance tracking
+
+Monthly reporting to stakeholders
+
+Business insights and strategy planning
 
